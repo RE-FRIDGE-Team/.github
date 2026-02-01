@@ -72,11 +72,11 @@
 
 <div align="center">
   <a href="https://believed-find-8f0.notion.site/RE-FRIDGE-2f22dc52aeaa8095ad16d1ee8ef27289?pvs=74">
-    <img src="./profile/portfolio_button.png" alt="Portfolio" height="50"/>
+    <img src="./portfolio_button.png" alt="Portfolio" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://believed-find-8f0.notion.site/RE-Fridge-Tech-Wiki-2f22dc52aeaa80c7b014cb947ef0f08a?pvs=74">
-    <img src="./profile/wiki_button.png" alt="Tech Wiki" height="50"/>
+    <img src="./wiki_button.png" alt="Tech Wiki" height="50"/>
   </a>
 </div>
 
