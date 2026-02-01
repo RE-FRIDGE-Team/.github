@@ -25,13 +25,21 @@
 
 <br/>
 
-## 🏗️ System Architecture
+## 🏗️ System Architecture (Planning)
 
 <div align="center">
-  <img src="./profile/system_architecture.png" alt="System Architecture" width="800"/>
+  <img src="./ref_system_architecture.png" alt="System Architecture" width="800"/>
 </div>
 
 <br/>
+
+---
+
+## 📦 Repositories
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=RE-FRIDGE-Team&repo=REF_Core_Fridge_Service&description_lines_count=3)](https://github.com/RE-FRIDGE-Team/REF_Core_Fridge_Service)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=RE-FRIDGE-Team&repo=REF_Classification_For_Ingredient_Recognition&description_lines_count=3)](https://github.com/RE-FRIDGE-Team/REF_Classification_For_Ingredient_Recognition)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=RE-FRIDGE-Team&repo=REF_Application&description_lines_count=3)](https://github.com/RE-FRIDGE-Team/REF_Application)
+
 
 ## 🛠️ Tech Stack
 
