@@ -36,9 +36,9 @@
 ---
 
 ## 📦 Repositories
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=RE-FRIDGE-Team&repo=REF_Core_Fridge_Service&description_lines_count=3)](https://github.com/RE-FRIDGE-Team/REF_Core_Fridge_Service)
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=RE-FRIDGE-Team&repo=REF_Classification_For_Ingredient_Recognition&description_lines_count=3)](https://github.com/RE-FRIDGE-Team/REF_Classification_For_Ingredient_Recognition)
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=RE-FRIDGE-Team&repo=REF_Application&description_lines_count=3)](https://github.com/RE-FRIDGE-Team/REF_Application)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=RE-FRIDGE-Team&repo=REF_Core_Fridge_Service&description_lines_count=3&cache_seconds=7200)](https://github.com/RE-FRIDGE-Team/REF_Core_Fridge_Service)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=RE-FRIDGE-Team&repo=REF_Classification_For_Ingredient_Recognition&description_lines_count=3&cache_seconds=7200)](https://github.com/RE-FRIDGE-Team/REF_Classification_For_Ingredient_Recognition)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=RE-FRIDGE-Team&repo=REF_Application&description_lines_count=3&cache_seconds=7200)](https://github.com/RE-FRIDGE-Team/REF_Application)
 
 
 ## 🛠️ Tech Stack
